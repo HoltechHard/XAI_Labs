@@ -1,0 +1,17 @@
+==============================================
+|         CMD FOR INSTALL DEPENDENCIES        |
+==============================================
+
+1) create virtual environment
+
+> python -m venv xai_env
+
+3) init the virtual environment
+
+> .\xai_env\Scripts\activate
+
+4) install all required libraries
+
+> pip install -r requirements.txt
+> pip install ipykernel
+> pip install --upgrade jupyter ipywidgets
