@@ -16,7 +16,7 @@ ML Models:
    notebook: xai_clusters_gen_lgbm.ipynb  
    model: lgbm_clusters_gen_v1.pkl
 3) NAF (Neural Attention Forest) without hyperparameter tuning  
-   Files:
+   Files:  
    notebook: xai_clusters_gen_naf.ipynb (just global explanations) 
 
 X-AI Algorithms:  
