@@ -11,10 +11,13 @@ ML Models:
    Files:  
    notebook: xai_clusters_gen_xgboost.ipynb  
    model: xgb_clusters_gen_v1.pkl  
-3) LGBM (Light gradient boost machines) with GridSearchCV hyperparameter tuning  
+2) LGBM (Light gradient boost machines) with GridSearchCV hyperparameter tuning  
    Files:  
    notebook: xai_clusters_gen_lgbm.ipynb  
-   model: lgbm_clusters_gen_v1.pkl  
+   model: lgbm_clusters_gen_v1.pkl
+3) NAF (Neural Attention Forest) without hyperparameter tuning  
+   Files:
+   notebook: xai_clusters_gen_naf.ipynb (just global explanations) 
 
 X-AI Algorithms:  
 1) Tree-SHAP (Shapley additive explanation) for global and local explanations
